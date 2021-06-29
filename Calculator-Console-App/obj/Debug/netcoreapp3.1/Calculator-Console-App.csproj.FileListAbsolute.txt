@@ -1,0 +1,13 @@
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\bin\Debug\netcoreapp3.1\Calculator-Console-App.exe
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\bin\Debug\netcoreapp3.1\Calculator-Console-App.deps.json
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\bin\Debug\netcoreapp3.1\Calculator-Console-App.runtimeconfig.json
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\bin\Debug\netcoreapp3.1\Calculator-Console-App.runtimeconfig.dev.json
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\bin\Debug\netcoreapp3.1\Calculator-Console-App.dll
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\bin\Debug\netcoreapp3.1\Calculator-Console-App.pdb
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\obj\Debug\netcoreapp3.1\Calculator-Console-App.csproj.AssemblyReference.cache
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\obj\Debug\netcoreapp3.1\Calculator-Console-App.AssemblyInfoInputs.cache
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\obj\Debug\netcoreapp3.1\Calculator-Console-App.AssemblyInfo.cs
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\obj\Debug\netcoreapp3.1\Calculator-Console-App.csproj.CoreCompileInputs.cache
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\obj\Debug\netcoreapp3.1\Calculator-Console-App.dll
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\obj\Debug\netcoreapp3.1\Calculator-Console-App.pdb
+C:\Users\sirai\Downloads\software-projects\repos\Calculator-Console-App\obj\Debug\netcoreapp3.1\Calculator-Console-App.genruntimeconfig.cache
