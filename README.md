@@ -1,2 +1,2 @@
-# calculator-console
+# calculator console app
 simple C# calculator
